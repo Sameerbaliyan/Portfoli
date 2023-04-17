@@ -1,0 +1,108 @@
+div{
+    background-color: rgb(203 213 225);
+    border-radius: 7px;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: white;
+    padding-top: 10px;
+    margin-left: 30px;
+    color: #7e22ce;
+}
+nav ul{
+    margin-left: 670px;
+    padding-bottom: 10px;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 30px;
+    font-size: bold;
+}
+li a{
+    text-decoration: none;
+}
+img{
+    margin-top: 50px;
+    width: 1000px;
+    height: 300px;
+    margin-left: 20px;
+    
+}
+.home{
+    color: #7e22ce;
+    font-size: 16px;
+}
+.h{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+    color:  #6b7280;
+}
+.learning{
+    font-size: 23px;
+    margin-top: 30px;
+    margin-left: 160px;
+}
+.neog{
+    margin-left: 160px;
+    font-size: 24px;
+    color: #7e22ce;
+}
+.can{
+    margin-top: 30px;
+    font-size: 23px;
+    margin-left: 160px;
+}
+span{
+    color: #7e22ce;
+}
+.good{
+    margin-top: 80px;
+    font-size: 29px;
+    margin-left: 160px;
+}
+.A{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.all{
+    margin-top: 20px;
+    margin-left: 160px;
+    font-size: 18px;
+}
+.al{
+    margin-left: 160px;
+    font-size: 18px;
+}
+.btn{
+    margin-left: 160px;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: #7e22ce;
+    color: white;
+    border-color: #7e22ce;
+    border-radius: 8px;
+}
+.bt{
+    margin-left: 160px;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    color: #7e22ce;
+    border-color: #7e22ce;
+    border-radius: 8px;
+}
+.emoji{
+    margin-top: 80px;
+    font-size: 27px;
+    margin-left: 160px;
+}
+.P{
+     color: inherit;
+}
